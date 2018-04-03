@@ -1,0 +1,11 @@
+Y:\version_controlled\docx_processor\docx_processor\bin\Debug\docx_processor.exe.config
+Y:\version_controlled\docx_processor\docx_processor\bin\Debug\docx_processor.exe
+Y:\version_controlled\docx_processor\docx_processor\bin\Debug\docx_processor.pdb
+Y:\version_controlled\docx_processor\docx_processor\obj\Debug\docx_processor.csprojResolveAssemblyReference.cache
+Y:\version_controlled\docx_processor\docx_processor\obj\Debug\docx_processor.Form1.resources
+Y:\version_controlled\docx_processor\docx_processor\obj\Debug\docx_processor.Properties.Resources.resources
+Y:\version_controlled\docx_processor\docx_processor\obj\Debug\docx_processor.csproj.GenerateResource.Cache
+Y:\version_controlled\docx_processor\docx_processor\obj\Debug\docx_processor.exe
+Y:\version_controlled\docx_processor\docx_processor\obj\Debug\docx_processor.pdb
+Y:\version_controlled\docx_processor\docx_processor\bin\Debug\DocumentFormat.OpenXml.dll
+Y:\version_controlled\docx_processor\docx_processor\bin\Debug\DocumentFormat.OpenXml.xml
