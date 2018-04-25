@@ -225,7 +225,7 @@ namespace docx_processor
                         text.Text = (newText);
 
 
-                        p.RemoveAllChildren();
+                        p.RemoveAllChildren<Run>();
                         p.AppendChild<Run>(r);
 
                     }
@@ -249,7 +249,7 @@ namespace docx_processor
                                     text.Text = (newText);
 
 
-                                    p.RemoveAllChildren();
+                                    p.RemoveAllChildren<Run>();
                                     p.AppendChild<Run>(r);
 
                                 }
